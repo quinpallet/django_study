@@ -98,5 +98,5 @@ $ python manage.py runserver
 
 ## License
 
-&copy; 2021 [Ken Kurosaki](https://github.com/xqiik).  
-This project is [MIT](https://github.com/xqiik/django_study/blob/master/LICENSE) licensed.
+&copy; 2021 [Ken Kurosaki](https://github.com/quinpallet).  
+This project is [MIT](https://github.com/quinpallet/django_study/blob/master/LICENSE) licensed.
